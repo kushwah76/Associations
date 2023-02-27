@@ -1,0 +1,2 @@
+class BackEndSkil < Skil
+end

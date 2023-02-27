@@ -1,0 +1,9 @@
+class CreateFrontEndSkils < ActiveRecord::Migration[7.0]
+  def change
+    create_table :front_end_skils do |t|
+      t.string :name
+
+      t.timestamps
+    end
+  end
+end

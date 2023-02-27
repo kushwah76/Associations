@@ -1,0 +1,2 @@
+class FrontEndSkil < Skil
+end
